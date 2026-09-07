@@ -1,6 +1,12 @@
-# Go Converter
+<h1 align="center"> Go Converter 🔀 </h1>
 
-A small **Go CLI** that converts numbers between **decimal**, **hex**, and **binary**.
+<p align = "center">
+  <kbd>
+    <img src= "https://github.com/boydjawun/go-converter/blob/main/assets/converter.jpg" alt="Converter Image" width = "500" height = "500">
+  </kbd>
+</p>
+  
+> A small **Go CLI** that converts numbers between **decimal**, **hex**, and **binary**.
 
 ---
 
