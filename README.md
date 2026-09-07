@@ -1,4 +1,4 @@
-<h1 align="center"> Go Converter 🔀 </h1>
+<h1 align="center"> Converter.go 🔀 </h1>
 
 <p align = "center">
   <kbd>
