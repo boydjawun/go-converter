@@ -51,7 +51,8 @@ go-converter/
 ## Build as an executable (optional)
 
 1. Inside project folder 👉 ```go build -o converter converter.go```
-2. Then add the output folder to your `PATH` if you want to run `converter` from anywhere.
+2. Create a **folder** for the **<executable>.exe**, and move it in there
+3. Then add the folder to your `PATH` if you want to run `converter` from anywhere by typing: ```converter <switch option> <value>```.
 
 ## Tech stack
 
