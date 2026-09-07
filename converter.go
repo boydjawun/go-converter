@@ -40,7 +40,7 @@ func main() {
 	fmt.Printf("Binary:  0b%b\n", n)
 }
 
-// Turn to an executable
+// Turn to an executable(Optional)
 /**
 1. go build -o converter.exe converter.go
 2. create a folder to hold the executable
